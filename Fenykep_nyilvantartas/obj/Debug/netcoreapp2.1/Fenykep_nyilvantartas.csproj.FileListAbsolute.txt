@@ -1,0 +1,11 @@
+C:\Users\Witti\source\repos\TAK3W5_HF2_Fenykep_nyilvantartas22\Fenykep_nyilvantartas\Fenykep_nyilvantartas\bin\Debug\netcoreapp2.1\Fenykep_nyilvantartas.deps.json
+C:\Users\Witti\source\repos\TAK3W5_HF2_Fenykep_nyilvantartas22\Fenykep_nyilvantartas\Fenykep_nyilvantartas\bin\Debug\netcoreapp2.1\Fenykep_nyilvantartas.runtimeconfig.json
+C:\Users\Witti\source\repos\TAK3W5_HF2_Fenykep_nyilvantartas22\Fenykep_nyilvantartas\Fenykep_nyilvantartas\bin\Debug\netcoreapp2.1\Fenykep_nyilvantartas.runtimeconfig.dev.json
+C:\Users\Witti\source\repos\TAK3W5_HF2_Fenykep_nyilvantartas22\Fenykep_nyilvantartas\Fenykep_nyilvantartas\bin\Debug\netcoreapp2.1\Fenykep_nyilvantartas.dll
+C:\Users\Witti\source\repos\TAK3W5_HF2_Fenykep_nyilvantartas22\Fenykep_nyilvantartas\Fenykep_nyilvantartas\bin\Debug\netcoreapp2.1\Fenykep_nyilvantartas.pdb
+C:\Users\Witti\source\repos\TAK3W5_HF2_Fenykep_nyilvantartas22\Fenykep_nyilvantartas\Fenykep_nyilvantartas\obj\Debug\netcoreapp2.1\Fenykep_nyilvantartas.csprojAssemblyReference.cache
+C:\Users\Witti\source\repos\TAK3W5_HF2_Fenykep_nyilvantartas22\Fenykep_nyilvantartas\Fenykep_nyilvantartas\obj\Debug\netcoreapp2.1\Fenykep_nyilvantartas.csproj.CoreCompileInputs.cache
+C:\Users\Witti\source\repos\TAK3W5_HF2_Fenykep_nyilvantartas22\Fenykep_nyilvantartas\Fenykep_nyilvantartas\obj\Debug\netcoreapp2.1\Fenykep_nyilvantartas.AssemblyInfoInputs.cache
+C:\Users\Witti\source\repos\TAK3W5_HF2_Fenykep_nyilvantartas22\Fenykep_nyilvantartas\Fenykep_nyilvantartas\obj\Debug\netcoreapp2.1\Fenykep_nyilvantartas.AssemblyInfo.cs
+C:\Users\Witti\source\repos\TAK3W5_HF2_Fenykep_nyilvantartas22\Fenykep_nyilvantartas\Fenykep_nyilvantartas\obj\Debug\netcoreapp2.1\Fenykep_nyilvantartas.dll
+C:\Users\Witti\source\repos\TAK3W5_HF2_Fenykep_nyilvantartas22\Fenykep_nyilvantartas\Fenykep_nyilvantartas\obj\Debug\netcoreapp2.1\Fenykep_nyilvantartas.pdb
