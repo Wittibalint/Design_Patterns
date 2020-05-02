@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Fenykep_nyilvantartas.UI;
+using System;
 
 namespace Fenykep_nyilvantartas
 {
@@ -6,7 +7,7 @@ namespace Fenykep_nyilvantartas
     {
         static void Main(string[] args)
         {
-            UI.ConsoleUI ui = new UI.DesignedConsole();
+            ConsoleUI ui = new DesignedConsole();
             ui.ToDo();
         }
     }
