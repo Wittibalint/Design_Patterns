@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Fenykep_nyilvantartas.UI
 {
-    //Konzolos UI implementációja
+    //Konzolos UI template methoddal
     abstract class ConsoleUI
     {
         public void ToDo()
